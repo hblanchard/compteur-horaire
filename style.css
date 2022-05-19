@@ -1,0 +1,39 @@
+body {
+	background-color: #081835;
+	font-family: 'arial';
+}
+
+section {
+	background-color: white;
+	width: 570px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	padding: 30px;
+}
+
+h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+form {
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	
+}
+
+form>button {
+	background-color: black;
+	width: 400px;
+	font-size: 1.5em;
+	color: white;
+	border-style: none;
+}
+
+p {
+	color: #BABABA;
+	font-size: 0.8em;
+	margin-top: 25px;
+}
